@@ -1,2 +1,2 @@
 console.log('Hello test')
-process.exit(1)
+process.exit(0)
